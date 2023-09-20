@@ -1,0 +1,9 @@
+[submodule "dataset/ustore"]
+	path = dataset/ustore
+	url = https://github.com/unum-cloud/ustore
+[submodule "dataset/usearch"]
+	path = dataset/usearch
+	url = https://github.com/unum-cloud/usearch
+[submodule "dataset/ucall"]
+	path = dataset/ucall
+	url = https://github.com/unum-cloud/ucall
