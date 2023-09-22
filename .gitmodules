@@ -7,3 +7,96 @@
 [submodule "dataset/ucall"]
 	path = dataset/ucall
 	url = https://github.com/unum-cloud/ucall
+[submodule "dataset/json"]
+	path = dataset/json
+	url = git@github.com:nlohmann/json.git
+[submodule "dataset/fastcoin"]
+	path = dataset/fastcoin
+	url = https://github.com/imharrywu/fastcoin.git
+[submodule "dataset/cppblog"]
+	path = dataset/cppblog
+	url = https://github.com/juanchopanza/cppblog.git
+[submodule "dataset/hexbright"]
+	path = dataset/hexbright
+	url = https://github.com/dhiltonp/hexbright.git
+[submodule "dataset/superfastmatch"]
+	path = dataset/superfastmatch
+	url = https://github.com/mediastandardstrust/superfastmatch.git
+[submodule "dataset/ZeroReserve"]
+	path = dataset/ZeroReserve
+	url = https://github.com/zeroreserve/ZeroReserve.git
+[submodule "dataset/clothes_parsing"]
+	path = dataset/clothes_parsing
+	url = https://github.com/bobbens/clothes_parsing.git
+[submodule "dataset/opencore-amr-js"]
+	path = dataset/opencore-amr-js
+	url = https://github.com/yxl/opencore-amr-js.git
+[submodule "dataset/iot-button-emulator"]
+	path = dataset/iot-button-emulator
+	url = https://github.com/ianmas-aws/iot-button-emulator.git
+[submodule "dataset/Competitve-Programming"]
+	path = dataset/Competitve-Programming
+	url = https://github.com/ishan-nitj/Competitve-Programming.git
+[submodule "dataset/interview"]
+	path = dataset/interview
+	url = https://github.com/wolf5x/interview.git
+[submodule "dataset/qrisp"]
+	path = dataset/qrisp
+	url = https://github.com/google/qrisp.git
+[submodule "dataset/iSpan"]
+	path = dataset/iSpan
+	url = https://github.com/iHeartGraph/iSpan.git
+[submodule "dataset/Wallet"]
+	path = dataset/Wallet
+	url = https://github.com/beetledev/Wallet.git
+[submodule "dataset/IIS.Setup"]
+	path = dataset/IIS.Setup
+	url = https://github.com/microsoft/IIS.Setup.git
+[submodule "dataset/WebSocketStreamClient"]
+	path = dataset/WebSocketStreamClient
+	url = https://github.com/areve/WebSocketStreamClient.git
+[submodule "dataset/ITKStrain"]
+	path = dataset/ITKStrain
+	url = https://github.com/KitwareMedical/ITKStrain.git
+[submodule "dataset/maplestory-client-hook"]
+	path = dataset/maplestory-client-hook
+	url = https://github.com/Hucaru/maplestory-client-hook.git
+[submodule "dataset/SUTURE"]
+	path = dataset/SUTURE
+	url = https://github.com/seclab-ucr/SUTURE.git
+[submodule "dataset/tut-framework"]
+	path = dataset/tut-framework
+	url = https://github.com/mrzechonek/tut-framework.git
+[submodule "dataset/nanonote"]
+	path = dataset/nanonote
+	url = https://github.com/agateau/nanonote.git
+[submodule "dataset/Secure_data_transmission"]
+	path = dataset/Secure_data_transmission
+	url = https://github.com/Peachol/Secure_data_transmission.git
+[submodule "dataset/mimium"]
+	path = dataset/mimium
+	url = https://github.com/mimium-org/mimium.git
+[submodule "dataset/react-native-worklets-core"]
+	path = dataset/react-native-worklets-core
+	url = https://github.com/margelo/react-native-worklets-core.git
+[submodule "dataset/criterion"]
+	path = dataset/criterion
+	url = https://github.com/p-ranav/criterion.git
+[submodule "dataset/itoa"]
+	path = dataset/itoa
+	url = https://github.com/jeaiii/itoa.git
+[submodule "dataset/yuzu-android"]
+	path = dataset/yuzu-android
+	url = https://github.com/yuzu-emu/yuzu-android.git
+[submodule "dataset/sparkle"]
+	path = dataset/sparkle
+	url = https://github.com/tcoppex/sparkle.git
+[submodule "dataset/heyoka"]
+	path = dataset/heyoka
+	url = https://github.com/bluescarni/heyoka.git
+[submodule "dataset/osre"]
+	path = dataset/osre
+	url = https://github.com/kimkulling/osre.git
+[submodule "dataset/gl"]
+	path = dataset/gl
+	url = https://github.com/acdemiralp/gl.git

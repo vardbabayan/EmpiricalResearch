@@ -9,3 +9,67 @@
 2) https://github.com/unum-cloud/ucall
 
 3) https://github.com/unum-cloud/usearch
+
+4) https://github.com/nlohmann/json.git
+
+5) https://github.com/imharrywu/fastcoin.git
+
+6) https://github.com/juanchopanza/cppblog.git
+
+7) https://github.com/dhiltonp/hexbright.git
+
+8) https://github.com/mediastandardstrust/superfastmatch.git
+
+9) https://github.com/zeroreserve/ZeroReserve.git
+
+10) https://github.com/bobbens/clothes_parsing.git
+
+11) https://github.com/yxl/opencore-amr-js.git
+
+12) https://github.com/wincle/NPD.git
+
+13) https://github.com/ianmas-aws/iot-button-emulator.git
+
+14) https://github.com/ishan-nitj/Competitve-Programming.git
+
+15) https://github.com/wolf5x/interview.git
+
+16) https://github.com/google/qrisp.git
+
+17) https://github.com/iHeartGraph/iSpan.git
+
+18) https://github.com/beetledev/Wallet.git
+
+19) https://github.com/microsoft/IIS.Setup.git
+
+20) https://github.com/areve/WebSocketStreamClient.git
+
+21) https://github.com/KitwareMedical/ITKStrain.git
+
+22) https://github.com/Hucaru/maplestory-client-hook.git
+
+23) https://github.com/seclab-ucr/SUTURE.git
+
+24) https://github.com/mrzechonek/tut-framework.git
+
+25) https://github.com/agateau/nanonote.git
+
+26) https://github.com/Peachol/Secure_data_transmission.git
+
+27) https://github.com/mimium-org/mimium.git
+
+28) https://github.com/margelo/react-native-worklets-core.git
+
+29) https://github.com/p-ranav/criterion.git
+
+30) https://github.com/jeaiii/itoa.git
+
+31) https://github.com/yuzu-emu/yuzu-android.git
+
+32) https://github.com/tcoppex/sparkle.git
+
+33) https://github.com/bluescarni/heyoka.git
+
+34) https://github.com/kimkulling/osre.git
+
+35) https://github.com/acdemiralp/gl.git
