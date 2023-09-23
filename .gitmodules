@@ -100,3 +100,201 @@
 [submodule "dataset/gl"]
 	path = dataset/gl
 	url = https://github.com/acdemiralp/gl.git
+[submodule "dataset/FRequest"]
+	path = dataset/FRequest
+	url = https://github.com/fabiobento512/FRequest.git
+[submodule "dataset/signalsmith-stretch"]
+	path = dataset/signalsmith-stretch
+	url = https://github.com/Signalsmith-Audio/signalsmith-stretch.git
+[submodule "dataset/ESP32Console"]
+	path = dataset/ESP32Console
+	url = https://github.com/jbtronics/ESP32Console.git
+[submodule "dataset/sketch"]
+	path = dataset/sketch
+	url = https://github.com/dnbaker/sketch.git
+[submodule "dataset/shell-plus-plus"]
+	path = dataset/shell-plus-plus
+	url = https://github.com/alexst07/shell-plus-plus.git
+[submodule "dataset/sling"]
+	path = dataset/sling
+	url = https://github.com/ringgaard/sling.git
+[submodule "dataset/godot_tree_generator_plugin"]
+	path = dataset/godot_tree_generator_plugin
+	url = https://github.com/Zylann/godot_tree_generator_plugin.git
+[submodule "dataset/moustique"]
+	path = dataset/moustique
+	url = https://github.com/matt-42/moustique.git
+[submodule "dataset/input-source-switcher"]
+	path = dataset/input-source-switcher
+	url = https://github.com/vovkasm/input-source-switcher.git
+[submodule "dataset/NoTouchID"]
+	path = dataset/NoTouchID
+	url = https://github.com/al3xtjames/NoTouchID.git
+[submodule "dataset/dynamodb-shell"]
+	path = dataset/dynamodb-shell
+	url = https://github.com/awslabs/dynamodb-shell.git
+[submodule "dataset/dsp"]
+	path = dataset/dsp
+	url = https://github.com/Signalsmith-Audio/dsp.git
+[submodule "dataset/LuaAV"]
+	path = dataset/LuaAV
+	url = https://github.com/LuaAV/LuaAV.git
+[submodule "dataset/GPUSmoke"]
+	path = dataset/GPUSmoke
+	url = https://github.com/michal1000w/GPUSmoke.git
+[submodule "dataset/fmt"]
+	path = dataset/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "dataset/imgui-flame-graph"]
+	path = dataset/imgui-flame-graph
+	url = https://github.com/bwrsandman/imgui-flame-graph.git
+[submodule "dataset/NPD"]
+	path = dataset/NPD
+	url = https://github.com/wincle/NPD.git
+[submodule "dataset/flowcpp"]
+	path = dataset/flowcpp
+	url = https://github.com/kittinunf/flowcpp.git
+[submodule "dataset/foldcomp"]
+	path = dataset/foldcomp
+	url = https://github.com/steineggerlab/foldcomp.git
+[submodule "dataset/sarus"]
+	path = dataset/sarus
+	url = https://github.com/eth-cscs/sarus.git
+[submodule "dataset/nest-compiler"]
+	path = dataset/nest-compiler
+	url = https://github.com/etri/nest-compiler.git
+[submodule "dataset/TouchEngine-UE"]
+	path = dataset/TouchEngine-UE
+	url = https://github.com/TouchDesigner/TouchEngine-UE.git
+[submodule "dataset/Tight-Inclusion"]
+	path = dataset/Tight-Inclusion
+	url = https://github.com/Continuous-Collision-Detection/Tight-Inclusion.git
+[submodule "dataset/penguintrace"]
+	path = dataset/penguintrace
+	url = https://github.com/penguintrace/penguintrace.git
+[submodule "dataset/cpp-effects"]
+	path = dataset/cpp-effects
+	url = https://github.com/maciejpirog/cpp-effects.git
+[submodule "dataset/Calico"]
+	path = dataset/Calico
+	url = https://github.com/yangjames/Calico.git
+[submodule "dataset/Procedural-Terrain-Generator-OpenGL"]
+	path = dataset/Procedural-Terrain-Generator-OpenGL
+	url = https://github.com/stanfortonski/Procedural-Terrain-Generator-OpenGL.git
+[submodule "dataset/ParallelQSlim"]
+	path = dataset/ParallelQSlim
+	url = https://github.com/Zielon/ParallelQSlim.git
+[submodule "dataset/hpenc"]
+	path = dataset/hpenc
+	url = https://github.com/vstakhov/hpenc.git
+[submodule "dataset/ctbignum"]
+	path = dataset/ctbignum
+	url = https://github.com/niekbouman/ctbignum.git
+[submodule "dataset/multi_uav_simulator"]
+	path = dataset/multi_uav_simulator
+	url = https://github.com/malintha/multi_uav_simulator.git
+[submodule "dataset/Fuser"]
+	path = dataset/Fuser
+	url = https://github.com/NVIDIA/Fuser.git
+[submodule "dataset/stdexec"]
+	path = dataset/stdexec
+	url = https://github.com/NVIDIA/stdexec.git
+[submodule "dataset/cuda-quantum"]
+	path = dataset/cuda-quantum
+	url = https://github.com/NVIDIA/cuda-quantum.git
+[submodule "dataset/TensorRT"]
+	path = dataset/TensorRT
+	url = https://github.com/NVIDIA/TensorRT.git
+[submodule "dataset/cccl"]
+	path = dataset/cccl
+	url = https://github.com/NVIDIA/cccl.git
+[submodule "dataset/VisRTX"]
+	path = dataset/VisRTX
+	url = https://github.com/NVIDIA/VisRTX.git
+[submodule "dataset/VideoProcessingFramework"]
+	path = dataset/VideoProcessingFramework
+	url = https://github.com/NVIDIA/VideoProcessingFramework.git
+[submodule "dataset/motion-toolkit"]
+	path = dataset/motion-toolkit
+	url = https://github.com/dtecta/motion-toolkit.git
+[submodule "dataset/joedb"]
+	path = dataset/joedb
+	url = https://github.com/Remi-Coulom/joedb.git
+[submodule "dataset/libunicode"]
+	path = dataset/libunicode
+	url = https://github.com/contour-terminal/libunicode.git
+[submodule "dataset/meazure"]
+	path = dataset/meazure
+	url = https://github.com/cthing/meazure.git
+[submodule "dataset/tsl"]
+	path = dataset/tsl
+	url = https://github.com/google/tsl.git
+[submodule "dataset/quiche"]
+	path = dataset/quiche
+	url = https://github.com/google/quiche.git
+[submodule "dataset/distributed_point_functions"]
+	path = dataset/distributed_point_functions
+	url = https://github.com/google/distributed_point_functions.git
+[submodule "dataset/ruy"]
+	path = dataset/ruy
+	url = https://github.com/google/ruy.git
+[submodule "dataset/highway"]
+	path = dataset/highway
+	url = https://github.com/google/highway.git
+[submodule "dataset/googletest"]
+	path = dataset/googletest
+	url = https://github.com/google/googletest.git
+[submodule "dataset/silifuzz"]
+	path = dataset/silifuzz
+	url = https://github.com/google/silifuzz.git
+[submodule "dataset/tensorstore"]
+	path = dataset/tensorstore
+	url = https://github.com/google/tensorstore.git
+[submodule "dataset/rocksdb"]
+	path = dataset/rocksdb
+	url = https://github.com/facebook/rocksdb.git
+[submodule "dataset/folly"]
+	path = dataset/folly
+	url = https://github.com/facebook/folly.git
+[submodule "dataset/redex"]
+	path = dataset/redex
+	url = https://github.com/facebook/redex.git
+[submodule "dataset/vcpkg-tool"]
+	path = dataset/vcpkg-tool
+	url = https://github.com/microsoft/vcpkg-tool.git
+[submodule "dataset/spot"]
+	path = dataset/spot
+	url = https://github.com/nbonneel/spot.git
+[submodule "dataset/simple-os"]
+	path = dataset/simple-os
+	url = https://github.com/povilasb/simple-os.git
+[submodule "dataset/ICPin"]
+	path = dataset/ICPin
+	url = https://github.com/nccgroup/ICPin.git
+[submodule "dataset/SamplinSafari"]
+	path = dataset/SamplinSafari
+	url = https://github.com/wkjarosz/SamplinSafari.git
+[submodule "dataset/Arduino-USBMIDI"]
+	path = dataset/Arduino-USBMIDI
+	url = https://github.com/lathoub/Arduino-USBMIDI.git
+[submodule "dataset/isaac_ros_image_pipeline"]
+	path = dataset/isaac_ros_image_pipeline
+	url = https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_image_pipeline.git
+[submodule "dataset/BaoYan-Algorithm-Problems"]
+	path = dataset/BaoYan-Algorithm-Problems
+	url = https://github.com/EricLee8/BaoYan-Algorithm-Problems.git
+[submodule "dataset/pillow-resize"]
+	path = dataset/pillow-resize
+	url = https://github.com/zurutech/pillow-resize.git
+[submodule "dataset/EigenRand"]
+	path = dataset/EigenRand
+	url = https://github.com/bab2min/EigenRand.git
+[submodule "dataset/ESP-Vindriktning"]
+	path = dataset/ESP-Vindriktning
+	url = https://github.com/LaskaKit/ESP-Vindriktning.git
+[submodule "dataset/nozoid_OCS-2"]
+	path = dataset/nozoid_OCS-2
+	url = https://github.com/ch-nry/nozoid_OCS-2.git
+[submodule "dataset/isaac_ros_pose_estimation"]
+	path = dataset/isaac_ros_pose_estimation
+	url = https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation.git
