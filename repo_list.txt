@@ -1,11 +1,199 @@
-[Andrei]
-
-[Alina]
-
-[Vartan]
-
 1) https://github.com/unum-cloud/ustore
 
 2) https://github.com/unum-cloud/ucall
 
 3) https://github.com/unum-cloud/usearch
+
+4) https://github.com/nlohmann/json.git
+
+5) https://github.com/imharrywu/fastcoin.git
+
+6) https://github.com/juanchopanza/cppblog.git
+
+7) https://github.com/dhiltonp/hexbright.git
+
+8) https://github.com/mediastandardstrust/superfastmatch.git
+
+9) https://github.com/zeroreserve/ZeroReserve.git
+
+10) https://github.com/bobbens/clothes_parsing.git
+
+11) https://github.com/yxl/opencore-amr-js.git
+
+12) https://github.com/wincle/NPD.git
+
+13) https://github.com/ianmas-aws/iot-button-emulator.git
+
+14) https://github.com/ishan-nitj/Competitve-Programming.git
+
+15) https://github.com/wolf5x/interview.git
+
+16) https://github.com/google/qrisp.git
+
+17) https://github.com/iHeartGraph/iSpan.git
+
+18) https://github.com/beetledev/Wallet.git
+
+19) https://github.com/microsoft/IIS.Setup.git
+
+20) https://github.com/areve/WebSocketStreamClient.git
+
+21) https://github.com/KitwareMedical/ITKStrain.git
+
+22) https://github.com/Hucaru/maplestory-client-hook.git
+
+23) https://github.com/seclab-ucr/SUTURE.git
+
+24) https://github.com/mrzechonek/tut-framework.git
+
+25) https://github.com/agateau/nanonote.git
+
+26) https://github.com/Peachol/Secure_data_transmission.git
+
+27) https://github.com/mimium-org/mimium.git
+
+28) https://github.com/margelo/react-native-worklets-core.git
+
+29) https://github.com/p-ranav/criterion.git
+
+30) https://github.com/jeaiii/itoa.git
+
+31) https://github.com/yuzu-emu/yuzu-android.git
+
+32) https://github.com/tcoppex/sparkle.git
+
+33) https://github.com/bluescarni/heyoka.git
+
+34) https://github.com/kimkulling/osre.git
+
+35) https://github.com/acdemiralp/gl.git
+
+36) https://github.com/fabiobento512/FRequest.git
+
+37) https://github.com/Signalsmith-Audio/signalsmith-stretch.git
+
+38) https://github.com/jbtronics/ESP32Console.git
+
+39) https://github.com/dnbaker/sketch.git
+
+40) https://github.com/alexst07/shell-plus-plus.git
+
+41) https://github.com/ringgaard/sling.git
+
+42) https://github.com/Zylann/godot_tree_generator_plugin.git
+
+43) https://github.com/matt-42/moustique.git
+
+44) https://github.com/vovkasm/input-source-switcher.git
+
+45) https://github.com/al3xtjames/NoTouchID.git
+
+46) https://github.com/awslabs/dynamodb-shell.git
+
+47) https://github.com/Signalsmith-Audio/dsp.git
+
+48) https://github.com/LuaAV/LuaAV.git
+
+49) https://github.com/michal1000w/GPUSmoke.git
+
+50) https://github.com/fmtlib/fmt.git
+
+51) https://github.com/bwrsandman/imgui-flame-graph.git
+
+52) https://github.com/kittinunf/flowcpp.git
+
+53) https://github.com/steineggerlab/foldcomp.git
+
+54) https://github.com/eth-cscs/sarus.git
+
+55) https://github.com/etri/nest-compiler.git
+
+56) https://github.com/TouchDesigner/TouchEngine-UE.git
+
+57) https://github.com/Continuous-Collision-Detection/Tight-Inclusion.git
+
+58) https://github.com/penguintrace/penguintrace.git
+
+59) https://github.com/maciejpirog/cpp-effects.git
+
+60) https://github.com/yangjames/Calico.git
+
+61) https://github.com/stanfortonski/Procedural-Terrain-Generator-OpenGL.git
+
+62) https://github.com/Zielon/ParallelQSlim.git
+
+63) https://github.com/vstakhov/hpenc.git
+
+64) https://github.com/niekbouman/ctbignum.git
+
+65) https://github.com/malintha/multi_uav_simulator.git
+
+66) https://github.com/NVIDIA/Fuser.git
+
+67) https://github.com/NVIDIA/stdexec.
+
+68) https://github.com/NVIDIA/cuda-quantum.git
+
+69) https://github.com/NVIDIA/TensorRT.git
+
+70) https://github.com/NVIDIA/cccl.git
+
+71) https://github.chttps://github.com/google/ruy.gitom/NVIDIA/VisRTX.git
+
+72) https://github.com/NVIDIA/VideoProcessingFramework.git
+
+73) https://github.com/dtecta/motion-toolkit.git
+
+74) https://github.com/Remi-Coulom/joedb.git
+
+75) https://github.com/contour-terminal/libunicode.git
+
+76) https://github.com/cthing/meazure.git
+
+77) https://github.com/google/tsl.git
+
+78) https://github.com/google/quiche.git
+
+79) https://github.com/google/distributed_point_functions.git
+
+80) https://github.com/google/ruy.git
+
+81) https://github.com/google/highway.git
+
+82) https://github.com/google/googletest.git
+
+83) https://github.com/google/silifuzz.git
+
+84) https://github.com/google/tensorstore.git
+
+85) https://github.com/facebook/rocksdb.git
+ 
+86) https://github.com/facebook/folly.git
+
+87) https://github.com/facebook/redex.git
+
+88) https://github.com/microsoft/vcpkg-tool.git
+
+89) https://github.com/nbonneel/spot.git
+
+90) https://github.com/povilasb/simple-os.git
+
+91) https://github.com/nccgroup/ICPin.git
+
+92) https://github.com/wkjarosz/SamplinSafari.git
+
+93) https://github.com/lathoub/Arduino-USBMIDI.git
+
+94) https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_image_pipeline.git
+
+95) https://github.com/EricLee8/BaoYan-Algorithm-Problems.git
+
+96) https://github.com/zurutech/pillow-resize.git
+
+97) https://github.com/bab2min/EigenRand.git
+
+98) https://github.com/LaskaKit/ESP-Vindriktning.git
+
+99) https://github.com/ch-nry/nozoid_OCS-2.git
+
+100) https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation.git
